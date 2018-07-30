@@ -3,22 +3,28 @@
 
 @import "{{ site.theme }}";
 
-/* The sidebar menu - starting with code from W3Schools */
-.sidenav {
-    width: 10%;
-    position: fixed;
-    z-index: 1; /* Stay on top */
-    right: 0;
-    top: 0;
-    background-color: #111; /* Black */
-    overflow-x: hidden; /* Disable horizontal scroll */
-}
-.main-content-content {
-    width: 90%;
-}
-
-/*.date {
+.date {
 	margin: 0;
 	padding: 0;
+	font-size: 0.75rem;
+}
 
-}*/
+a {
+	text-decoration: underline;
+}
+
+.skip {
+   position: absolute;
+   left: -999em;
+   width: 990em;
+}
+a.skip:active,  a.skip:focus {
+	left:0;
+    border: 3px #3399cc solid;
+    background-color: #fff;
+}
+
+.project-name{
+	text-decoration: none;
+	color: white;
+}

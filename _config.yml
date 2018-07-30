@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
-title: Articles
-description: Articles
+title: Alex Brenon
+description: Articles on Accessibility, Digital Humanities, and Blended Learning
+url: https://articles.alexroseb.com
 repository: alexroseb/alexroseb.github.io
+permalink: /:categories/:title:output_ext

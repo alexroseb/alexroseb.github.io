@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The 3 Easiest Ways to Start Making Your Site More Accessible"
+title:  The 3 Easiest Ways to Start Making Your Site More Accessible
 date:   2018-07-27
-categories: accessibility-quick-tips
+category: "Accessibility Quick Tips"
 ---
 
 ## The 3 Easiest Ways to Start Making Your Site More Accessible
